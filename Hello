@@ -1,4 +1,9 @@
 Hello
 
+<<<<<<< HEAD
 main 2nd commit
 Feature 1 2nd commit
+=======
+Feature 1
+Feature 1 2nd commit
+>>>>>>> 07acdc4068913c5ae467e252ee3b463b70fdbf9f
